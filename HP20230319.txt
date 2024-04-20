@@ -119,7 +119,7 @@ CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://123.154.30.3:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道#genre#
+卫视频道,#genre#
 上海卫视,http://59.62.8.250:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://219.145.93.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://61.136.67.238:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -321,7 +321,7 @@ CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&aut
 黑龙江卫视,http://123.154.30.3:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://59.62.8.250:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
-其他频道#genre#
+其他频道,#genre#
 CETV1,http://111.225.115.142:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV2,http://111.225.115.142:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 4K电源,http://115.171.86.251:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
